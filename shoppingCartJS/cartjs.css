@@ -1,0 +1,92 @@
+
+body{
+   width: 100%;
+    background-color: rgb(233, 241, 241);
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+/* h1{
+ height: 100px;
+ text-align: center;
+ color: tomato;
+
+
+} */
+.full-heading{
+    color: rgb(102, 50, 5);
+    width: 100%;
+    float: left;
+}
+.half-heading1{
+    height: 100px;
+    text-align: center;
+    color: tomato;
+    width: 60%;
+
+
+}
+.half-heading2{
+    width: 20%;
+    background-color:pink;
+
+
+}
+/* .brand{
+    width: 200px;
+    height: 50px;
+
+    } */
+
+.cart{
+    border: none;
+    width: 350px;
+    height:250px;
+    background-color: #ec8acd;
+    border-radius: 7px;
+    color: rgb(17, 17, 16);
+    margin: 10px;
+   /* padding:10px 30px; */
+   padding: 50px;
+    text-align: center;
+    float: left;
+    box-shadow: 5px 5px 10px lightgrey;
+    /* box-shadow: 5px 10px 5px rgb(127, 130, 131); */
+}
+.addToCart{
+    color: rgb(17, 6, 12);
+    background-color: rgb(159, 173, 34);
+    border-radius: 5px;
+    padding: 9px 25px;
+  
+}
+img {
+    width: 50%;
+    border-radius: 3px;
+    
+}
+footer{
+    text-align: center;
+    color: royalblue;
+}
+
+
+.left-content{
+width:75%;
+background: purple;
+}
+.right-content{
+min-height: 450px;
+width: 25%;
+margin-left: 75%;
+background: rgb(159, 173, 34);
+}
+
+table, th, td{
+padding: 5px;
+border: 0px solid #000;
+}
+
+.footer-row{
+font-weight: bold;
+}
